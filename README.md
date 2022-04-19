@@ -15,7 +15,7 @@ run following command: pip3 install photocrypt
 With GUI Application
 first, install photocrypt gui dependency using following command: pip3 install photocrypt[gui]
 
-then clone repository: git clone https://github.com/Kullmann/Photocrypt.git
+then clone repository: https://github.com/Eh-Mr-SK/Pencryption.git
 
 Running
 Run GUI Application
