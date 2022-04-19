@@ -23,3 +23,7 @@ Run GUI Application
 Clone repository or Download an extract In folder.
 
 Open the Folder In VIsual Studio Code Or in terminal and Run : python3 Pencryption.py file and Encrypt/Decrypt images using Gui.
+
+Download Executable Exe file from :
+
+Report Errors or Bugs On support@cybervish.com
